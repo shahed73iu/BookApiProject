@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\intern37.it\\SelfPracticeProject\\BookApiProject\\BookApiProject\\BookApiProject.csproj": {}
+    "C:\\Users\\intern37.it\\SelfProject\\BookApiProject\\BookApiProject\\BookApiProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\intern37.it\\SelfPracticeProject\\BookApiProject\\BookApiProject\\BookApiProject.csproj": {
+    "C:\\Users\\intern37.it\\SelfProject\\BookApiProject\\BookApiProject\\BookApiProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\intern37.it\\SelfPracticeProject\\BookApiProject\\BookApiProject\\BookApiProject.csproj",
+        "projectUniqueName": "C:\\Users\\intern37.it\\SelfProject\\BookApiProject\\BookApiProject\\BookApiProject.csproj",
         "projectName": "BookApiProject",
-        "projectPath": "C:\\Users\\intern37.it\\SelfPracticeProject\\BookApiProject\\BookApiProject\\BookApiProject.csproj",
+        "projectPath": "C:\\Users\\intern37.it\\SelfProject\\BookApiProject\\BookApiProject\\BookApiProject.csproj",
         "packagesPath": "C:\\Users\\intern37.it\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\intern37.it\\SelfPracticeProject\\BookApiProject\\BookApiProject\\obj\\",
+        "outputPath": "C:\\Users\\intern37.it\\SelfProject\\BookApiProject\\BookApiProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

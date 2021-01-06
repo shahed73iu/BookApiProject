@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WlVD6r7qzZ37QfDi6ZDIA7sx0fSBMKKqxm4YpQA+Uezne5x7yVCa0Hq/Vqjyl2hYeU9WFRbQb92kIEfhSduC/Q==",
+  "dgSpecHash": "oQYcNSWpXwqJWzxiXma2z+Mgjfrg2tYGpfaPzseS+NCvIMQ9kNY7UKSuAXHsmnzVIHL1f1cZXzC3MdtmPz6ARw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\intern37.it\\SelfPracticeProject\\BookApiProject\\BookApiProject\\BookApiProject.csproj",
+  "projectFilePath": "C:\\Users\\intern37.it\\SelfProject\\BookApiProject\\BookApiProject\\BookApiProject.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\messagepack\\1.7.3.4\\messagepack.1.7.3.4.nupkg.sha512",

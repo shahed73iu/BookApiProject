@@ -26,8 +26,8 @@ namespace BookApiProject
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            var connectionString = Configuration["connectionString:bookDbConnectionString"];
-            //services.AddDbContext<BookDbContext>(c => c.UseSqlServer(connectionString));
+            var connectionStrings = Configuration["connectionStrings:bookDbConnectionString"];
+            services.AddDbContext<BookDbContext>(c => c.UseSqlServer(connectionStrings));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
