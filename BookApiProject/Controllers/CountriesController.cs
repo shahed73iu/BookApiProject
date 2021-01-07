@@ -25,7 +25,6 @@ namespace BookApiProject.Controllers
         public IActionResult GetCountries()
         {
              var countries =  _countryRepository.GetCountries().ToList();
-            //var countries = _countryRepository.GetCountries().Where(c => c.Id == 250);
 
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
