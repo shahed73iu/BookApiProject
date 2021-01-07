@@ -31,3 +31,4 @@ C:\Users\intern37.it\SelfProject\BookApiProject\BookApiProject\obj\Debug\netcore
 C:\Users\intern37.it\SelfProject\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.dll
 C:\Users\intern37.it\SelfProject\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.pdb
 C:\Users\intern37.it\SelfProject\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.genruntimeconfig.cache
+C:\Users\intern37.it\SelfProject\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csprojAssemblyReference.cache
